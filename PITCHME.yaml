@@ -8,24 +8,19 @@ footnote : "Geo Week 2020"
 
 theme            : template
 
-theme-background : [ "linear-gradient(#000, #232629)" ]
-theme-headline   : [ "Montserrat", "white", "none" ]
-theme-byline     : [ "Montserrat", "#white", "none" ]
-theme-text       : [ "Lato", "#F5FFFA", "none" ]
-theme-links      : [ "#FFD700", "#ffe862" ]
-theme-code       : [ "Victor Mono" ] # Victor Mono Italic
-theme-controls   : [ "#eee" ]
-theme-margins    : [ "0px", "15px" ]
-highlight        : hybrid
+# theme-background : [ "linear-gradient(#000, #232629)" ]
+# theme-headline   : [ "Montserrat", "white", "none" ]
+# theme-byline     : [ "Montserrat", "#white", "none" ]
+# theme-text       : [ "Lato", "#F5FFFA", "none" ]
+# theme-links      : [ "#FFD700", "#ffe862" ]
+# theme-code       : [ "Victor Mono" ] # Victor Mono Italic
+# theme-controls   : [ "#eee" ]
+# theme-margins    : [ "0px", "15px" ]
+# highlight        : hybrid
 
 theme-override : assets/pitchmd.css
-
-# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
-theme            : template
-theme-background : [ "linear-gradient(#000, #232629)" ]
 background          : assets/td.jpg
 background-position : center
-background-size     : cover
 background-opacity  : 20
 theme-headline   : [ "Work Sans", "white", "none", "white", "120", "120", "15" ]
 theme-byline     : [ "Work Sans", "#white", "none", "#white", "110", "110", "15" ]
